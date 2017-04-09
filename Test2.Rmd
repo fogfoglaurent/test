@@ -14,8 +14,9 @@ a=1
 b=1
 c
 f
-r
+plot(x,you)
 e
+r
 ```
 
 
